@@ -10,9 +10,9 @@
 
 
 	
-## <img src="https://github.com/DevMobyEnd/Saber235/blob/main/WhatsApp%20Image%202024-09-18%20at%209.25.15%20AM.jpeg" width="50px" alt="About Me Icon"> **About me**
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVvNXc5OGswdzFmOHRuZzFma3ZyeHEzZXNsZTJkNWsxZzRmcW9jcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.webp" width="85" ><b>About me</b>
 
-<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhpYmo1aXgxMHQyN2Jqb3gzMHkyZTJhN3F5em1maTViaTZvNG1qaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YKFR0dauxYEzJA8J6U/giphy.gif" width = 350px></picture>
+<picture> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpraXBwZGR1ZGxicmRhejR6cmtuNWo1eWlnYWt5d2k4NGcxY2gxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/34C52oEhjEX9m/giphy.webp" width = 350px></picture>
 
 <br>
 
@@ -53,7 +53,7 @@
    ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
    ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
    ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-   ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+   
 
  - **💾 Databases**:
    
